@@ -1,1 +1,13 @@
 ### IMPORTS
+import pandas as pd
+import re
+import io
+import os
+from google.colab import drive
+from google.colab import files
+import numpy as np
+import datetime
+!pip install emoji --upgrade
+import emoji
+from collections import Counter
+
