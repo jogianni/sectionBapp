@@ -1,4 +1,4 @@
-# sectionBapp
+# SectionB App
 
 Welcome to SectionB App! An app designed for analyzing high interaction medium sized group chats. Born of an MBA WhatsApp chat I sought to build an app that would provide fun metrics for group chats where the participants had a lot of interaction outside of the chat itself. 
 
